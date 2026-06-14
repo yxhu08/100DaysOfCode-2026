@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class question2_technical {
+public class question1_technical {
     public static void main(String[] args){
         int totalNumberSum=0;
         Scanner sc = new Scanner(System.in);

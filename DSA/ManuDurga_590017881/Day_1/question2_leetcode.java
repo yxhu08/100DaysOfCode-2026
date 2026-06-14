@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class question1_leetcode{
+class question2_leetcode{
     public static void main(String[] args){
         int missingNumberSum = 0;
         int totalNumberSum=0;
